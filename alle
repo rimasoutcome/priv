@@ -1,51 +1,71 @@
 allowlist = {
     "SLOT0": {
         "hwid": "PCI\\VEN_1002_DEV_73FF_SUBSYS_50221462_REV_C7\\6_34CB7C20_0_00000019",
-        "expiry": "6/10/2025"
+        "expiry": "6/10/2025",
+        "userid": 720354684879241327,
+        "alias": "roy"
     },
 
     "SLOT1": {
         "hwid": None,
-        "expiry": "6/10/2025"
+        "expiry": "6/10/2025",
+        "userid": None,
+        "alias": None
     },
 
     "SLOT2": {
         "hwid": None,
-        "expiry": "6/10/2025"
+        "expiry": "6/10/2025",
+        "userid": None,
+        "alias": None
     },
 
     "SLOT3": {
         "hwid": None,
-        "expiry": "6/10/2025"
+        "expiry": "6/10/2025",
+        "userid": None,
+        "alias": None
     },
 
     "SLOT4": {
         "hwid": None,
-        "expiry": "6/10/2025"
+        "expiry": "6/10/2025",
+        "userid": None,
+        "alias": None
     },
 
     "SLOT5": {
         "hwid": None,
-        "expiry": "6/10/2025"
+        "expiry": "6/10/2025",
+        "userid": None,
+        "alias": None
     },
 
     "SLOT6": {
         "hwid": None,
-        "expiry": "6/10/2025"
+        "expiry": "6/10/2025",
+        "userid": None,
+        "alias": None
     },
 
     "SLOT7": {
         "hwid": None,
-        "expiry": "6/10/2025"
+        "expiry": "6/10/2025",
+        "userid": None,
+        "alias": None
     },
 
     "SLOT8": {
         "hwid": None,
-        "expiry": "6/10/2025"
+        "expiry": "6/10/2025",
+        "userid": None,
+        "alias": None
     },
 
     "SLOT9": {
         "hwid": None,
-        "expiry": "6/10/2025"
+        "expiry": "6/10/2025",
+        "userid": None,
+        "alias": None
     }
 }
