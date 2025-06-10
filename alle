@@ -1,0 +1,51 @@
+allowlist = {
+    "SLOT0": {
+        "hwid": "PCI\\VEN_1002_DEV_73FF_SUBSYS_50221462_REV_C7\\6_34CB7C20_0_00000019",
+        "expiry": "6/10/2025"
+    },
+
+    "SLOT1": {
+        "hwid": None,
+        "expiry": "6/10/2025"
+    },
+
+    "SLOT2": {
+        "hwid": None,
+        "expiry": "6/10/2025"
+    },
+
+    "SLOT3": {
+        "hwid": None,
+        "expiry": "6/10/2025"
+    },
+
+    "SLOT4": {
+        "hwid": None,
+        "expiry": "6/10/2025"
+    },
+
+    "SLOT5": {
+        "hwid": None,
+        "expiry": "6/10/2025"
+    },
+
+    "SLOT6": {
+        "hwid": None,
+        "expiry": "6/10/2025"
+    },
+
+    "SLOT7": {
+        "hwid": None,
+        "expiry": "6/10/2025"
+    },
+
+    "SLOT8": {
+        "hwid": None,
+        "expiry": "6/10/2025"
+    },
+
+    "SLOT9": {
+        "hwid": None,
+        "expiry": "6/10/2025"
+    }
+}
